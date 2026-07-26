@@ -218,28 +218,14 @@ FAST NUCES, Lahore
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
 <img
   width="100%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanaHashir0&theme=github_dark"
-  alt="Rana Hashir GitHub Profile Summary"
-/>
-
-<br><br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RanaHashir0&theme=github_dark"
-  alt="Rana Hashir GitHub Statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RanaHashir0&theme=github_dark"
-  alt="Rana Hashir Top Repository Languages"
+  alt="Rana Hashir GitHub activity"
 />
 
 </div>
