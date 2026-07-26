@@ -5,7 +5,7 @@
 ### AI Engineer | Data Scientist | Generative AI Developer
 
 I build intelligent applications using machine learning, deep learning,  
-LLMs, RAG, voice AI, FastAPI, Flask, and modern data technologies.
+LLMs, Agentic AI, voice technologies, and modern backend frameworks.
 
 <br>
 
@@ -31,94 +31,155 @@ LLMs, RAG, voice AI, FastAPI, Flask, and modern data technologies.
 
 ## About Me
 
-I am a Data Scientist and AI developer with experience in machine learning,
-deep learning, Generative AI, Agentic RAG systems, real-time voice agents,
-and backend development.
+I am a Data Science student at **FAST NUCES** with practical experience in
+artificial intelligence, machine learning, Generative AI, and backend
+development.
 
-- 🧠 Working with LLMs, RAG, LangChain, and vector databases
-- ⚡ Building APIs with FastAPI and Flask
-- 🎙️ Developing voice agents using Twilio, LiveKit, STT, and TTS
-- 📊 Experienced in data analysis, NLP, computer vision, and predictive modeling
+I have worked on Agentic RAG systems, conversational voice agents, medical AI
+applications, deep-learning models, data pipelines, and FastAPI-based backend
+services.
+
+- 🤖 Interested in Agentic AI, RAG, LLMs, and intelligent automation
+- ⚡ Experienced with FastAPI, Flask, REST APIs, and backend integration
+- 📊 Skilled in machine learning, deep learning, NLP, and data analysis
 - ☁️ Familiar with Docker, AWS, Git, and deployment workflows
-- 🎓 BS Data Science student at FAST NUCES
-- 🤝 Open to AI, data science, and machine learning opportunities
+- 🤝 Open to AI engineering, data science, and machine learning opportunities
+- 📫 Contact: [ranahashir4601@gmail.com](mailto:ranahashir4601@gmail.com)
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,sklearn,opencv,fastapi,flask,docker,aws,git,github,mysql" alt="Tech Stack" />
+### AI, Machine Learning and Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="AI and Machine Learning Skills" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-Agentic_AI-1C3C3C?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-Vector_Search-6A5ACD?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/PySpark-Data_Engineering-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Twilio-Voice_AI-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+`TensorFlow` `PyTorch` `Scikit-learn` `Keras` `OpenCV` `Pandas` `NumPy`  
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision`
+
+### Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Intelligent_Agents-6A5ACD?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-008080?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
 </p>
+
+`LangChain` `RAG` `Vector Databases` `Prompt Engineering` `LLM Applications`
+
+### Backend, Cloud and Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,aws,docker,git,github,mysql" alt="Backend and Cloud Skills" />
+</p>
+
+`FastAPI` `Flask` `REST APIs` `SQL` `AWS EC2/S3` `Docker` `Git` `GitHub`
+
+---
+
+## Professional Experience
+
+### Associate Data Scientist — Techtics.ai
+
+`April 2025 – August 2025`
+
+- Developed conversational voice agents and Agentic RAG systems
+- Built FastAPI services with GPT, Gemini, and retrieval workflows
+- Integrated Twilio, LiveKit, speech-to-text, and text-to-speech technologies
+- Supported testing, debugging, deployment, and performance optimization
+
+### Data Scientist Intern — Prodigy InfoTech
+
+`May 2023 – August 2023`
+
+- Performed data cleaning, visualization, and exploratory data analysis
+- Built and evaluated machine-learning classification models
+- Applied sentiment analysis, feature engineering, and model tuning
 
 ---
 
 ## Featured Projects
 
-### NeuroCardia
+### NeuroCardia — Medical AI Application
 
-Medical AI application for real-time ECG classification, confidence scoring,
-and automated report generation.
+A deep-learning application for real-time ECG classification and cardiac
+abnormality detection.
 
-**Tech:** Python, Deep Learning, ECG Signal Processing  
-**Result:** 92% classification accuracy
+- Automated ECG preprocessing and model inference
+- Confidence scoring and report generation
+- Achieved **92% classification accuracy**
+
+**Technologies:** Python, Deep Learning, ECG Signal Processing
 
 ---
 
 ### Voice Calling AI Agents
 
-Real-time conversational voice agents with natural speech interaction and
-low-latency response handling.
+Real-time conversational AI agents designed for natural and automated voice
+interactions.
 
-**Tech:** Python, Twilio, LiveKit, STT, TTS, LLMs
+- Twilio and LiveKit integration
+- Speech-to-text and text-to-speech pipelines
+- LLM-based reasoning and context management
+- Low-latency response optimization
+
+**Technologies:** Python, FastAPI, Twilio, LiveKit, LLMs
 
 ---
 
 ### Agentic RAG System
 
-An intelligent document-question-answering system using agents, semantic search,
-and vector databases.
+An intelligent document-question-answering system that retrieves relevant
+information and generates context-aware responses.
 
-**Tech:** LangChain, Vector DB, OpenAI API, Python
+- LangChain-based agent workflows
+- Semantic search using vector databases
+- Prompt engineering and hallucination reduction
+- Real-time document processing
+
+**Technologies:** Python, LangChain, OpenAI API, Vector Databases
 
 ---
 
 ### Deepfake Image Detection
 
-Deep-learning image-classification project with scalable PySpark preprocessing.
+A deep-learning project for detecting manipulated images using scalable data
+processing.
 
-**Tech:** PySpark, TensorFlow, CNN, OpenCV
+- Processed more than 10,000 images
+- Used PySpark for preprocessing
+- Trained a CNN model with TensorFlow
+- Applied image normalization and augmentation
 
 [View Repository](https://github.com/RanaHashir0/Deepfake-Image-Detection-PySpark)
 
 ---
 
-### Financial News Sentiment Analysis
-
-Dashboard combining financial news, NLP sentiment analysis, and market insights.
-
-**Tech:** Python, Scikit-learn, NLP, Pandas
-
----
-
 ### Health Monitoring Application
 
-Role-based healthcare management system for patients, doctors, and administrators.
+A role-based healthcare management platform for patients, doctors, and
+administrators.
 
-**Tech:** Flask, SQL Server, HTML, CSS
+- Secure authentication and role-based access
+- Patient records and appointment management
+- Flask dashboards with SQL Server integration
 
 [View Repository](https://github.com/RanaHashir0/HealthMonitoringApplication)
 
 ---
 
-## GitHub Stats
+## Education
+
+**Bachelor of Science in Data Science**  
+FAST NUCES, Lahore — `2022–2026`
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -138,14 +199,20 @@ Role-based healthcare management system for patients, doctors, and administrator
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ranahashir0/)
-- [Email](mailto:ranahashir4601@gmail.com)
-- [GitHub](https://github.com/RanaHashir0)
+I am open to AI engineering, data science, machine learning, backend development,
+and professional collaboration opportunities.
+
+- **LinkedIn:** [linkedin.com/in/ranahashir0](https://www.linkedin.com/in/ranahashir0/)
+- **Email:** [ranahashir4601@gmail.com](mailto:ranahashir4601@gmail.com)
+- **GitHub:** [github.com/RanaHashir0](https://github.com/RanaHashir0)
+- **Location:** Lahore, Pakistan
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
+### Thanks for visiting my profile!
+
+⭐ Explore my repositories and connect with me for collaboration.
 
 </div>
