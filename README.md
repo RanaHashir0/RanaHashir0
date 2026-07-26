@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hafiz Muhammad Hashir 👋
+# Hi, I'm Hashir 👋
 
 ### AI Engineer | Data Scientist | Generative AI Developer
 
