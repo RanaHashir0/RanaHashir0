@@ -16,7 +16,7 @@ LLMs, Agentic AI, voice technologies, and modern backend frameworks.
   />
 </a>
 
-<a href="mailto:ranahashir4601@gmail.com">
+<a href="mailto:hmhashir.work@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
@@ -54,7 +54,7 @@ services.
 - ☁️ Familiar with AWS, Docker, Git, GitHub, and deployment workflows
 - 🎓 Pursuing a Bachelor of Science in Data Science at FAST NUCES
 - 🤝 Open to AI engineering, data science, and machine learning opportunities
-- 📫 Reach me at [ranahashir4601@gmail.com](mailto:ranahashir4601@gmail.com)
+- 📫 Reach me at [hmhashir.work@gmail.com](mailto:hmhashir.work@gmail.com)
 
 ---
 
@@ -208,7 +208,6 @@ services.
 </p>
 
 ---
-
 
 ## Education
 
