@@ -238,7 +238,7 @@ I am open to AI engineering, data science, machine learning, Generative AI,
 backend development, and professional collaboration opportunities.
 
 - **LinkedIn:** [linkedin.com/in/ranahashir0](https://www.linkedin.com/in/ranahashir0/)
-- **Email:** [ranahashir4601@gmail.com](mailto:ranahashir4601@gmail.com)
+- **Email:** [hmhashir.work@gmail.com](mailto:hmhashir.work@gmail.com)
 - **GitHub:** [github.com/RanaHashir0](https://github.com/RanaHashir0)
 - **Location:** Lahore, Pakistan
 
